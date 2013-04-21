@@ -3,7 +3,9 @@ Rails-Tutorial-Anki-Deck
 
 Flash cards to help people learn Ruby on Rails.
 
-## Instructions for use:
+## Instructions for using the flashcards
+
+### Installing Anki & importing the flashcards
 1. Download Anki (flash card software): http://ankisrs.net/#download
 2. Download the Rails-Tutorial-Anki-Deck.apkg file in this repository.
 3. Run Anki.
@@ -11,7 +13,7 @@ Flash cards to help people learn Ruby on Rails.
 5. Navigate to and select the Rails-Tutorial-Anki-Deck.apkg
 
 ### To get a quick idea of what the cards contain
-Check out Rails-Tutorial-Anki-Deck-Quick-Look.txt. This text document is _not_ a
+Check out Rails-Tutorial-Anki-Deck-Quick-Look.txt. That text document is _not_ a
 replacement for the actual Anki package; it doesn't contain images, or
 an indication of which cards should be double-sided.
 
