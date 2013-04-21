@@ -10,12 +10,12 @@ Flash cards to help people learn Ruby on Rails.
 4. Within Anki, select File-->Import
 5. Navigate to and select the Rails-Tutorial-Anki-Deck.apkg
 
-To get a quick idea of what the cards contain, check out
-Rails-Tutorial-Anki-Deck-Quick-Look.txt. This text document is _not_ a
+### To get a quick idea of what the cards contain
+Check out Rails-Tutorial-Anki-Deck-Quick-Look.txt. This text document is _not_ a
 replacement for the actual Anki package; it doesn't contain images, or
 an indication of which cards should be double-sided.
 
-About Anki:
+### About Anki
 http://en.wikipedia.org/wiki/Anki
 Anki is a spaced repetition flashcard program.
 Anki (暗記) is the Japanese word for "memorizing".
