@@ -30,10 +30,10 @@ Anki (暗記) is the Japanese word for "memorizing".
 then should be more-or-less done.  I haven't done anything after that, so the majority
 of the guide has still not been converted.
 
+### To export the deck to your hard drive:
 If you make changes to the deck and want to submit them to this repository, you'll
 need to export the deck first.
 
-### To export the deck to your hard drive:
 1. From the Deck Browser open the deck you want to share.
 2. Go to file-->export 
 3. Under "Export Format," select "Packaged Anki Deck (*zip)"
