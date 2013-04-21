@@ -25,6 +25,11 @@ Anki (暗記) is the Japanese word for "memorizing".
 
 ## Instructions for people who want to contribute:
 
+### What sections of the Tutorial still need to be flashcarded
+4/12 - I think I got up to section 1.3.something, maybe 1.3.2?  So everything up until
+then should be more-or-less done.  I haven't done anything after that, so the majority
+of the guide has still not been converted.
+
 If you make changes to the deck and want to submit them to this repository, you'll
 need to export the deck first.
 
