@@ -5,7 +5,7 @@ Rails-Tutorial-Anki-Deck
 
 This is a project to make Anki flash cards to help people learn Ruby on Rails.
 Specifically, these flash cards are designed to teach people all of the information that
-Michael Hartl mentions in his book, the Rails Tutorial.
+Michael Hartl mentions in his book, the _The Ruby on Rails Tutorial_ (or just _Rails Tutorial_ for short).
 
 ### What's Anki?
 http://en.wikipedia.org/wiki/Anki
