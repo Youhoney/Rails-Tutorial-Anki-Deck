@@ -9,6 +9,7 @@ Michael Hartl mentions in his book, the _The Ruby on Rails Tutorial_ (or just _R
 
 ### What's Anki?
 http://en.wikipedia.org/wiki/Anki
+
 Anki is a spaced repetition flashcard program.
 Anki (暗記) is the Japanese word for "memorizing".
 
