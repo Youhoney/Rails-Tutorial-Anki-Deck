@@ -1,4 +1,4 @@
-Rails-Tutorial-Anki-Deck
+The Ruby on Rails TUtorial Anki Deck
 ========================
 
 ## What is this?
