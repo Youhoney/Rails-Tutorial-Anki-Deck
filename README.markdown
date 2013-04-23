@@ -37,10 +37,42 @@ an indication of which cards should be double-sided.
 
 ## Instructions for people who want to contribute:
 
-### What sections of the Tutorial still need to be flashcarded
-4/12 - I think I got up to section 1.3.something, maybe 1.3.2?  So everything up until
-then should be more-or-less done.  I haven't done anything after that, so the majority
-of the guide has still not been converted.
+### What sections of the Tutorial still need flash cards made?
+
+#### Chapter 1
+I got up to section 1.3.something, maybe 1.3.2?  So everything up until
+then should be more-or-less done.
+
+#### Chapter 2
+Not started.
+
+#### Chapter 3
+Not started.
+
+#### Chapter 4
+Not started.
+
+#### Chapter 5
+Not started.
+
+#### Chapter 6
+Not started.
+
+#### Chapter 7
+Not started.
+
+#### Chapter 8
+Not started.
+
+#### Chapter 9
+Not started.
+
+#### Chapter 10
+Not started.
+
+#### Chapter 11
+Not started.
+
 
 ### To export the deck to your hard drive:
 If you make changes to the deck and want to submit them to this repository, you'll
