@@ -1,7 +1,22 @@
 Rails-Tutorial-Anki-Deck
 ========================
 
-Flash cards to help people learn Ruby on Rails.
+## What is this?
+
+This is a project to make Anki flash cards to help people learn Ruby on Rails.
+Specifically, these flash cards are designed to teach people all of the information that
+Michael Hartl mentions in his book, the Rails Tutorial.
+
+### What's Anki?
+http://en.wikipedia.org/wiki/Anki
+Anki is a spaced repetition flashcard program.
+Anki (暗記) is the Japanese word for "memorizing".
+
+### What's Ruby on Rails?
+http://en.wikipedia.org/wiki/Ruby_on_Rails
+
+### What's Hartl's Rails Tutorial?
+http://ruby.railstutorial.org/
 
 ## Instructions for using the flashcards
 
@@ -17,10 +32,6 @@ Check out Rails-Tutorial-Anki-Deck-Quick-Look.txt. That text document is _not_ a
 replacement for the actual Anki package; it doesn't contain images, or
 an indication of which cards should be double-sided.
 
-### About Anki
-http://en.wikipedia.org/wiki/Anki
-Anki is a spaced repetition flashcard program.
-Anki (暗記) is the Japanese word for "memorizing".
 
 
 ## Instructions for people who want to contribute:
